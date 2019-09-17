@@ -32,9 +32,10 @@ X is then dominated by Z
 ⦁	b)
 
 
-        A(a)    B(1-a)
-Y(x)	1	2
-Z(1-x)	4	1
+|       | A (a)      | B (1-a)    |
+|-------|------------|------------|
+|Y(x)	|1	     |2           |
+|Z(1-x)	|4	     |1           |
 
 There is no pure nash equilibrium, because if player Row chooses Y, then Column will choose A to minimise, but then Row will choose Z to maximise. Then Column will choose B to minimise, then Row will choose Y to maximise, then Column will choose A again to minimise, and this cycle will continue. There is no pure nash equilibrium because it is a zero-sum game and therefore their interests are directly opposed and won’t come to a rest where both players are satisfied.
 
