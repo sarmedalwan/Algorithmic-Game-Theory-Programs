@@ -15,14 +15,16 @@ Sarmed Alwan
 
 ⦁	a)
 
-        A       B
-X       2       0
-Y       1       2
-Z       4       1
+|       | A      | B      |
+|-------|--------|--------|
+|X      | 2      | 0      |
+|Y      | 1      | 2      |
+|Z      | 4      | 1      |
 
-        A       B
-Y       1       2
-Z       4       1
+|       | A      | B      |
+|-------|--------|--------|
+|Y      | 1      | 2      |
+|Z      | 4      | 1      |
 
 C and D are strictly dominated by B
 X is then dominated by Z
