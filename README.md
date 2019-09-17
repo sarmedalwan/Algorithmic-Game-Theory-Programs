@@ -120,7 +120,7 @@ Question 3
 
 ## 3. a)
 
-|Drivers on A	|Drivers on B	|Travel time for driver on A	|Travel time for driver on B
+|Drivers on A	|Drivers on B	|Travel time for driver on A	|Travel time for driver on B|
 |0	|10	|10*0+40=40	|10*10=100|
 |---|---|-----------|---------|
 |1	|9	|10*1+40=50	|10*9=90|
