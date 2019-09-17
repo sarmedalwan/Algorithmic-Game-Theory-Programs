@@ -6,8 +6,9 @@ Question 2 is the abstract 2-player game, Question 4 is the auction simulation.
 Sarmed Alwan
 ## Question 1
 
-|       | A      | B      | C       D|
---------------------------------------
+
+|       | A      | B      | C      D|
+|------------------------------------|
 |X      | 2      | 0      | 1       4|
 |Y      | 1      | 2      | 5       3|
 |Z      | 4      | 1      | 3       2|
