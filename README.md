@@ -147,7 +147,7 @@ Illustration of the nash equilibrium condition which produces the equilibrium ou
 ## 3. b)
 
 |Drivers on A	|Drivers on B	|Travel time for driver on A (Minutes)	|Travel time for driver on B (Minutes)	|Total travel time for all drivers (Minutes)|
-|---|---|-----------|---------|
+|---|---|-----------|---------|--------------------|
 |0	|10	|10*0+40=40	|10*10=100	|(40*0)+(100*10)=1000|
 |1	|9	|10*1+40=50	|10*9=90	|(50*1)+(90*9)=860|
 |2	|8	|10*2+40=60	|10*8=80	|(60*2)+(80*8)=760|
