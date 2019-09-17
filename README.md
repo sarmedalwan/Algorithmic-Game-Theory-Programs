@@ -6,21 +6,21 @@ Question 2 is the abstract 2-player game, Question 4 is the auction simulation.
 Sarmed Alwan
 ## Question 1
 
-	A	B	C	D
-X	2	0	1	4
-Y	1	2	5	3
-Z	4	1	3	2
+        A       B       C       D
+X       2       0       1       4
+Y       1       2       5       3
+Z       4       1       3       2
 
 ⦁	a)
 
-	A	B
-X	2	0
-Y	1	2
-Z	4	1
+        A       B
+X       2       0
+Y       1       2
+Z       4       1
 
-	A	B
-Y	1	2
-Z	4	1
+        A       B
+Y       1       2
+Z       4       1
 
 C and D are strictly dominated by B
 X is then dominated by Z
@@ -28,7 +28,7 @@ X is then dominated by Z
 ⦁	b)
 
 
-	A(a)	B(1-a)
+        A(a)    B(1-a)
 Y(x)	1	2
 Z(1-x)	4	1
 
