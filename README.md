@@ -146,20 +146,19 @@ Illustration of the nash equilibrium condition which produces the equilibrium ou
 
 ## 3. b)
 
-Drivers on A	Drivers on B	Travel time for driver on A (Minutes)	Travel time for driver on B
-(Minutes)	Total travel time for all drivers
-(Minutes)
-0	10	10*0+40=40	10*10=100	(40*0)+(100*10)=1000
-1	9	10*1+40=50	10*9=90	(50*1)+(90*9)=860
-2	8	10*2+40=60	10*8=80	(60*2)+(80*8)=760
-3	7	10*3+40=70	10*7=70	(70*3)+(70*7)=700
-4	6	10*4+40=80	10*6=60	(80*4)+(60*6)=680
-5	5	10*5+40=90	10*5=50	(90*5)+(50*5)=700
-6	4	10*6+40=100	10*4=40	(100*6)+(40*4)=760
-7	3	10*7+40=110	10*3=30	(110*7)+(30*3)=860
-8	2	10*8+40=120	10*2=20	(120*8)+(20*2)=1000
-9	1	10*9+40=130	10*1=10	(130*9)+(10*1)=1180
-10	0	10*10+40=140	10*0=0	(140*10)+(10*0)=1400
+|Drivers on A	|Drivers on B	|Travel time for driver on A (Minutes)	|Travel time for driver on B (Minutes)	|Total travel time for all drivers (Minutes)|
+|---|---|-----------|---------|
+|0	|10	|10*0+40=40	|10*10=100	|(40*0)+(100*10)=1000|
+|1	|9	|10*1+40=50	|10*9=90	|(50*1)+(90*9)=860|
+|2	|8	|10*2+40=60	|10*8=80	|(60*2)+(80*8)=760|
+|3	|7	|10*3+40=70	|10*7=70	|(70*3)+(70*7)=700|
+|4	|6	|10*4+40=80	|10*6=60	|(80*4)+(60*6)=680|
+|5	|5	|10*5+40=90	|10*5=50	|(90*5)+(50*5)=700|
+|6	|4	|10*6+40=100	|10*4=40	|(100*6)+(40*4)=760|
+|7	|3	|10*7+40=110	|10*3=30	|(110*7)+(30*3)=860|
+|8	|2	|10*8+40=120	|10*2=20	|(120*8)+(20*2)=1000|
+|9	|1	|10*9+40=130	|10*1=10	|(130*9)+(10*1)=1180|
+|10	|0	|10*10+40=140	|10*0=0	|(140*10)+(10*0)=1400|
 
 The traffic pattern minimising total travel time for all drivers is having 4 drivers on route A and 6 drivers on route B. This is calculated by multiplying the travel time for a driver on each route in a given traffic pattern by the amount of drivers on that route in that same traffic pattern. For example, in the case where there are 5 drivers on route A and 5 on route B, we multiply the travel time for a driver on A, which is 90 in this traffic pattern, by the amount of drivers on route A. This will give us 90*5=450, which is the total travel time for all drivers on route A. Then we multiply the travel time for a driver on B, which is 50 in this traffic pattern, by the amount of drivers on B, which is 5. This gives us 50*5 which is 250, which is the total travel time for all drivers on route B. We then add 450 and 250, which will give us 700, which is the total travel time of all drivers in this traffic pattern. The traffic pattern with 4 drivers on A and 6 drivers on B gives us the lowest total travel time for all drivers, which is 680. The corresponding profile of commuting times is described in the table above.
 
