@@ -120,18 +120,19 @@ Question 3
 
 ## 3. a)
 
-Drivers on A	Drivers on B	Travel time for driver on A	Travel time for driver on B
-0	10	10*0+40=40	10*10=100
-1	9	10*1+40=50	10*9=90
-2	8	10*2+40=60	10*8=80
-3	7	10*3+40=70	10*7=70
-4	6	10*4+40=80	10*6=60
-5	5	10*5+40=90	10*5=50
-6	4	10*6+40=100	10*4=40
-7	3	10*7+40=110	10*3=30
-8	2	10*8+40=120	10*2=20
-9	1	10*9+40=130	10*1=10
-10	0	10*10+40=140	10*0=0
+|Drivers on A	|Drivers on B	|Travel time for driver on A	|Travel time for driver on B
+|0	|10	|10*0+40=40	|10*10=100|
+---|---|-----------|---------|
+|1	|9	|10*1+40=50	|10*9=90|
+|2	|8	|10*2+40=60	|10*8=80|
+|3	|7	|10*3+40=70	|10*7=70|
+|4	|6	|10*4+40=80	|10*6=60|
+|5	|5	|10*5+40=90	|10*5=50|
+|6	|4	|10*6+40=100	|10*4=40|
+|7	|3	|10*7+40=110	|10*3=30|
+|8	|2	|10*8+40=120	|10*2=20|
+|9	|1	|10*9+40=130	|10*1=10|
+|10	|0	|10*10+40=140	|10*0=0|
 
 Above are the 10 possible states of the As the amount of drivers on path A increases, the number of drivers on path B naturally decreases because they’ve moved over to path A. 10 drivers will start the ‘game’, and 10 drivers will also end it by ending up at the end node. If a driver participates in the game, they must leave the start node, travel via either route A or route B, and must then arrive at the end node.
 
