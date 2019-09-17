@@ -61,18 +61,21 @@ Row player plays Y with probability 3/4 and Z with probability 1/4, and Column p
 
 Payoffs
 
-	A	B	C
-X	10, 5	0,6	0,0
-Y	7,7	0,0	6,0
-Z	0,0	7,7	5,10
+|       | A      | B      | C      |
+|-------|--------|--------|--------|
+|X	|10, 5	 |0,6	  |0,0     |
+|Y	|7,7	 |0,0	  |6,0     |
+|Z	|0,0	 |7,7	  |5,10    |
 
 
 Sums of payoffs
 
-	A	B	C
-X	15	6	0
-Y	14	0	6
-Z	0	7	15
+|       | A      | B      | C      |
+|-------|--------|--------|--------|
+|X	|15	 |6	  |0       |
+|Y	|14	 |0	  |6       |
+|Z	|0	 |14	  |15      |
+
 Constraints
 Recommendation PLAY X  (10Pxa+0Pxb+0Pxc)>=(7Pya+0Pyb+6Pyc)+(0Pza+7Pzb+5Pzc)
 Recommendation PLAY Y  (7Pya+0Pyb+6Pyc)>=(10Pxa+0Pxb+0Pxc)+(0Pza+7Pzb+5Pzc)
